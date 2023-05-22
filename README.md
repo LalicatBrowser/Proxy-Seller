@@ -1,7 +1,7 @@
 # Proxy-Seller integration with Lalicat antidetect browser
 
 [Proxy-Seller](https://www.lalicat.com/proxy-seller) is a provider of private IPv4, IPv6, and rotating Mobile 4G/LTE proxies. The company has improved many times since its’ launch in 2014.
-We have received a lot of setting requests from our users, so now we can show how to set up a proxy from Proxy-Seller in the Lalicat Anti-detect browser.  
+We have received a lot of setting requests from our users, so now we can show how to set up a proxy from Proxy-Seller in the Lalicat [Anti detect browser](https://www.lalicat.com/).  
 
 First of all, we’d like to mention the main features of Proxy-Seller services:  
 
